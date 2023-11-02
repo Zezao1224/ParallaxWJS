@@ -7,6 +7,8 @@ Este projeto tem como objetivo aplicar o conceito do Parallax para criar animaç
 
 
 No caso deste projeto, foi utilizado JS puro mas futuramente irei utilizar algumas frameworks de mercado que facilitam e tornam esta animação muito mais natural.
+como por exemplo:
+https://simpleparallax.com
 
 ### Autor
 <h3> Bruno Luiz</h3>
