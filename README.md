@@ -1,7 +1,7 @@
 # ParallaxWJS
 
 ### Objetivo
-Este projeto tem como objetivo aplicar o conceito do Parallax para criar animações com imgs dando profundidade e adicionando movimento a elas, como a imagem a seguir exemplifica:
+Este projeto tem como objetivo aplicar o conceito do Parallax para criar animações com imgs dando profundidade e adicionando movimento a elas, como o exemplo a baixo:
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*RgN39VjoeH5xh7T8.jpg">
 
